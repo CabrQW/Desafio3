@@ -1,0 +1,38 @@
+.footer {
+    height: 137px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: aliceblue;
+  }
+  .footer--menu {
+    font-size: 30px;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-items: space-around;
+  }
+  .footer--itemsMenu {
+    padding-left: 90px;
+  }
+  
+  
+  a {
+    text-decoration: none;
+    color: aliceblue !important;
+  }
+
+  .icons {
+    margin: 50px;
+    padding-left: 50px;
+  }
+
+  .icons a :hover{
+    transform: translateY(-10px);
+    cursor: pointer;
+    transition-duration: 0.5s;
+  }
+
+  .icons2{
+    padding-left: 20px;
+  }
