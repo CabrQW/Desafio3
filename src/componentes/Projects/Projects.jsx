@@ -1,9 +1,9 @@
-import Cards from '../elements/Cards'
+import Cards from '../../elements/Cards'
 import styles from './Projects.module.css'
-import APIdnc from '../images/APIdnc.jpg'
-import basednc from '../images/basednc.jpg'
-import portf from '../images/portf.jpeg'
-import land from '../images/land.jpeg'
+import APIdnc from '../../images/APIdnc.jpg'
+import basednc from '../../images/basednc.jpg'
+import portf from '../../images/portf.jpeg'
+import land from '../../images/land.jpeg'
 
 
 

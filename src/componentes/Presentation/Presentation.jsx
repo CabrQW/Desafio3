@@ -1,6 +1,6 @@
 import React from 'react'
 import styles from './Presentation.module.css'
-import ButtaonA from '../elements/ButtaonA'
+import ButtaonA from '../../elements/ButtaonA'
 import { useEffect, useState } from 'react'
 
 function Presentation(){
